@@ -1,3 +1,5 @@
+//http://data-matters.blogspot.com/2008/07/simple-implementation-of-dtwdynamic.html
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
